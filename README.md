@@ -7,3 +7,9 @@ Vue实现扫雷游戏
 [在线链接](https://jiangshanmeta.github.io/mineSweeper-vue/index.html)
 
 [React实现扫雷](https://github.com/jiangshanmeta/minesweeper-react)
+
+开发日志
+
+#### 2022-04-30
+
+- 克隆项目文件
